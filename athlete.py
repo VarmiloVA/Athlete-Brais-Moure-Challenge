@@ -1,4 +1,4 @@
-# Carrera de obstáCONTROLLER_BUTTON_LEFTSHOULDER
+# Carrera de obstáculos
 # Enunciado: Crea una función que evalúe si un/a atleta ha superado correctamente una carrera de obstáculos.
 # - La función recibirá dos parámetros:
 #     - Un array que sólo puede contener String con las palabras "run" o "jump"
